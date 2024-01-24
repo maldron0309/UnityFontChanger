@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 46ee7de4db7b0924399f6c392a791e82
+guid: b384cf67c09d2b0488fdd0189c8d9ffc
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - AppleSDGothicNeoB00
+  - BM HANNA Pro
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
